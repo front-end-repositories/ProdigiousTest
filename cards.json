@@ -1,6 +1,7 @@
 {
   "cards" : [
     {
+      "id": "1",
       "type": "infoCard",
       "title": "Thought leadership",
       "subtitle": "June 21, 2017",
@@ -9,6 +10,7 @@
       "image": ""
     },
     {
+      "id": "2",
       "type": "arrowUpCard",
       "title": "leadership",
       "subtitle": "",
@@ -17,6 +19,7 @@
       "image": "dog.png"
     },
     {
+      "id": "3",
       "type": "arrowDownCard",
       "title": "Consumer Goods",
       "subtitle": "",
@@ -25,6 +28,7 @@
       "image": "women.png"
     },
     {
+      "id": "4",
       "type": "infoCard",
       "title": "Work",
       "subtitle": "Design thinking",
@@ -33,6 +37,7 @@
       "image": ""
     },
     {
+      "id": "5",
       "type": "infoCard",
       "title": "Insights",
       "subtitle": "June 19, 2017",
@@ -41,6 +46,7 @@
       "image": ""
     },
     {
+      "id": "6",
       "type": "arrowDownCard",
       "title": "Insights",
       "subtitle": "",
