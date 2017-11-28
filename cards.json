@@ -16,7 +16,7 @@
       "subtitle": "",
       "body": "Animal treatement campaign",
       "footer": "",
-      "image": "dog.png"
+      "image": "images/assets/dog.jpg"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "subtitle": "",
       "body": "Personal care, and it implication for the future",
       "footer": "",
-      "image": "women.png"
+      "image": "images/assets/model.jpg"
     },
     {
       "id": "4",
@@ -43,7 +43,7 @@
       "subtitle": "June 19, 2017",
       "body": "The dawn of the Augmented Influence",
       "footer": "Read More",
-      "image": ""
+      "image": "images/assets/child.jpg"
     },
     {
       "id": "6",
