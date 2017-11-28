@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "type": "arrowUpCard",
+      "type": "arrowCard",
       "title": "leadership",
       "subtitle": "",
       "body": "Animal treatement campaign",
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "type": "arrowDownCard",
+      "type": "arrowCard",
       "title": "Consumer Goods",
       "subtitle": "",
       "body": "Personal care, and it implication for the future",
@@ -47,7 +47,7 @@
     },
     {
       "id": "6",
-      "type": "arrowDownCard",
+      "type": "arrowCard",
       "title": "Insights",
       "subtitle": "",
       "body": "2017's Top Conversation Starter: Care for those in need",
