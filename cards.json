@@ -13,8 +13,8 @@
       "id": "2",
       "type": "arrowCard",
       "title": "leadership",
-      "subtitle": "",
-      "body": "Animal treatement campaign",
+      "subtitle": "Animal treatement campaign",
+      "body": "",
       "footer": "",
       "image": "images/assets/dog.jpg"
     },
@@ -22,8 +22,8 @@
       "id": "3",
       "type": "arrowCard",
       "title": "Consumer Goods",
-      "subtitle": "",
-      "body": "Personal care, and it implication for the future",
+      "subtitle": "Personal care, and it implication for the future",
+      "body": "",
       "footer": "",
       "image": "images/assets/model.jpg"
     },
@@ -49,8 +49,8 @@
       "id": "6",
       "type": "arrowCard",
       "title": "Insights",
-      "subtitle": "",
-      "body": "2017's Top Conversation Starter: Care for those in need",
+      "subtitle": "2017's Top Conversation Starter: Care for those in nee",
+      "body": "",
       "footer": "Read More",
       "image": "images/assets/child.jpg"
     }
